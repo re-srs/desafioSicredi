@@ -19,7 +19,7 @@ Um IDE de sua preferência, como IntelliJ IDEA ou Eclipse.
 #1. Clonar o Repositório
 Clone este repositório para a sua máquina local:
 
-git clone https://gitlab.com/desafio7450604/testeapi.git
+git clone https://github.com/re-srs/desafioSicredi.git
 
 #2. Importar o Projeto
 Abra o projeto no IntelliJ IDEA, Eclipse ou outro IDE.
