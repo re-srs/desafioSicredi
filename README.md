@@ -1,5 +1,5 @@
 # TesteAPI
-
+Enunciado do Desafio: https://sicredi-desafio-qe.readme.io/reference/home
 
 #Automação de Testes de API - Desafio
 Este projeto realiza automação de testes de API utilizando Java e RestAssured. Os testes abrangem validações funcionais, de contrato e fluxos de autenticação na API DummyJSON.
